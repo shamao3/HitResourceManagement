@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d73bb2ca-56fb-4063-bb5f-e4091f6a4a71" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/untitled10/templates/html/cancel_reserve.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/html/cancel_reserve.html" afterDir="false" />
-    </list>
+    <list default="true" id="d73bb2ca-56fb-4063-bb5f-e4091f6a4a71" name="Default Changelist" comment="注释" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="cbd32343-e32b-4bd1-9cee-0ffbb50b834b" />
   </component>
   <component name="ProjectId" id="1cM5nZJc3g0W2z1lPc4PSu9Y5pg" />
   <component name="ProjectViewState">
@@ -41,8 +42,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590325788587</updated>
-      <workItem from="1590325793442" duration="1420000" />
+      <workItem from="1590325793442" duration="1738000" />
     </task>
+    <task id="LOCAL-00001" summary="注释">
+      <created>1590327958034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590327958034</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,7 +68,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="注释" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="809" y="432" key="Github.Dialog.Accounts.Choose" timestamp="1590328013239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="809" y="432" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1590328013239" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590328081766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590328081766" />
     <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590325871966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
