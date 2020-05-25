@@ -112,39 +112,99 @@
    .seat-select a{
    	width:200px;
    }
-
+/**签到或取消预约seat-operate样式**/
+.seat-operate{
+	width:300px;
+	top:0;
+	left:548px;
+}
+.seat-operate .register{
+	position: relative;
+	background: rgba(144,168,228,1);
+	height: 150px;
+	margin-bottom: 30px;
+}
+.seat-operate .register a{
+	width:300px;
+}
+.seat-operate .cancel-reserve{
+	position: relative;
+	background: rgba(242,187,133,1);
+	height: 150px;
+}
+.seat-operate .cancel-reserve a{
+	width:300px;
+}
+.seat-operate .register img,
+.seat-operate .cancel-reserve img{
+	left:40px;
+}
+.seat-operate .register span,
+.seat-operate .cancel-reserve span{
+	left:140px;
+}
    /**签到或取消预约seat-operate样式**/
-   .seat-operate{
+   .seat-operate1{
    	width:300px;
-   	top:0;
-   	left:548px;
+   	top:150px;
+   	left:150px;
    }
-   .seat-operate .register{
+   .seat-operate1 .classroom{
    	position: relative;
    	background: rgba(144,168,228,1);
    	height: 150px;
-   	margin-bottom: 30px;
+   	margin-bottom: 100px;
    }
-   .seat-operate .register a{
+   .seat-operate1 .classroom a{
    	width:300px;
    }
-   .seat-operate .cancel-reserve{
+   .seat-operate1 .auditorium{
    	position: relative;
    	background: rgba(242,187,133,1);
    	height: 150px;
    }
-   .seat-operate .cancel-reserve a{
+   .seat-operate1 .auditorium a{
    	width:300px;
    }
-   .seat-operate .register img,
-   .seat-operate .cancel-reserve img{
+   .seat-operate1 .classroom img,
+   .seat-operate1 .auditorium img{
    	left:40px;
    }
-   .seat-operate .register span,
-   .seat-operate .cancel-reserve span{
+   .seat-operate1 .classroom span,
+   .seat-operate1 .auditorium span{
    	left:140px;
    }
- 
+/**签到或取消预约seat-operate样式**/
+.seat-operate2{
+	width:300px;
+	top:150px;
+	left:700px;
+}
+.seat-operate2 .gymnasium{
+	position: relative;
+	background: rgba(144,168,228,1);
+	height: 150px;
+	margin-bottom: 100px;
+}
+.seat-operate2 .gymnasium a{
+	width:300px;
+}
+.seat-operate2 .shop{
+	position: relative;
+	background: rgba(242,187,133,1);
+	height: 150px;
+}
+.seat-operate2 .shop a{
+	width:300px;
+}
+.seat-operate2 .gymnasium img,
+.seat-operate2 .shop img{
+	left:40px;
+}
+.seat-operate2 .gymnasium span,
+.seat-operate2 .shop span{
+	left:140px;
+}
    /**释放座位seat-release样式**/
    .seat-release{
    	width:200px;

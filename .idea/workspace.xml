@@ -10,11 +10,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d73bb2ca-56fb-4063-bb5f-e4091f6a4a71" name="Default Changelist" comment="注释" />
+    <list default="true" id="d73bb2ca-56fb-4063-bb5f-e4091f6a4a71" name="Default Changelist" comment="注释">
+      <change afterPath="$PROJECT_DIR$/untitled10/templates/html/roomclass_select.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled10/templates/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled10/templates/html/default_record.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/html/default_record.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590325788587</updated>
       <workItem from="1590325793442" duration="1738000" />
+      <workItem from="1590368026393" duration="9329000" />
     </task>
     <task id="LOCAL-00001" summary="注释">
       <created>1590327958034</created>
@@ -67,6 +81,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="注释" />
