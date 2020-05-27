@@ -118,19 +118,19 @@
 	top:0;
 	left:548px;
 }
-.seat-operate .register{
-	position: relative;
-	background: rgba(144,168,228,1);
-	height: 150px;
-	margin-bottom: 30px;
-}
-.seat-operate .register a{
-	width:300px;
-}
+/*.seat-operate .register{*/
+/*	position: relative;*/
+/*	background: rgba(144,168,228,1);*/
+/*	height: 150px;*/
+/*	margin-bottom: 30px;*/
+/*}*/
+/*.seat-operate .register a{*/
+/*	width:300px;*/
+/*}*/
 .seat-operate .cancel-reserve{
 	position: relative;
 	background: rgba(242,187,133,1);
-	height: 150px;
+	height: 330px;
 }
 .seat-operate .cancel-reserve a{
 	width:300px;

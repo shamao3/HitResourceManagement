@@ -27,6 +27,9 @@
 .notice-content .notice-date{
 	right:0;
 }
+.notice-content .notice-room{
+	right:100px;
+}
 #content2{
 	display: none;
 }

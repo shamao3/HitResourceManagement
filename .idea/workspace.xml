@@ -1,114 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d73bb2ca-56fb-4063-bb5f-e4091f6a4a71" name="Default Changelist" comment="注释">
-      <change afterPath="$PROJECT_DIR$/untitled10/templates/html/roomclass_select.html" afterDir="false" />
+    <list default="true" id="8b7fe52e-1127-44d6-a0f1-362dbc3a9a43" name="Default Changelist" comment="2020.5.27.  汪江君提交&#10;提交物为1.通知前端&#10;       2.主页&#10;       3.各个页面的横栏">
+      <change afterPath="$PROJECT_DIR$/.idea/newone.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled10/templates/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled10/templates/css/notice.css" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/css/notice.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled10/templates/html/cancel_reserve.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/html/cancel_reserve.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled10/templates/html/default_record.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/html/default_record.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled10/templates/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled10/templates/html/notice.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/html/notice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled10/templates/html/reserve_record.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/html/reserve_record.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled10/templates/html/room_register.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/html/room_register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled10/templates/html/room_release.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/html/room_release.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled10/templates/html/room_select.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/html/room_select.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled10/templates/html/roomclass_select.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled10/templates/html/roomclass_select.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="cbd32343-e32b-4bd1-9cee-0ffbb50b834b" />
-  </component>
-  <component name="ProjectId" id="1cM5nZJc3g0W2z1lPc4PSu9Y5pg" />
+  <component name="ProjectId" id="1cUWzYRB3vusMZajnPIUI5B9p33" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RunManager">
-    <configuration name="user_management.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HitResourceManagement/untitled10/templates/html/user_management.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.user_management.html" />
-      </list>
-    </recent_temporary>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d73bb2ca-56fb-4063-bb5f-e4091f6a4a71" name="Default Changelist" comment="" />
-      <created>1590325788587</created>
+      <changelist id="8b7fe52e-1127-44d6-a0f1-362dbc3a9a43" name="Default Changelist" comment="" />
+      <created>1590583915067</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1590325788587</updated>
-      <workItem from="1590325793442" duration="1738000" />
-      <workItem from="1590368026393" duration="9329000" />
+      <updated>1590583915067</updated>
+      <workItem from="1590583916561" duration="4452000" />
     </task>
-    <task id="LOCAL-00001" summary="注释">
-      <created>1590327958034</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1590327958034</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="注释" />
-    <option name="LAST_COMMIT_MESSAGE" value="注释" />
+    <MESSAGE value="2020.5.27.  汪江君提交&#10;提交物为1.通知前端" />
+    <MESSAGE value="2020.5.27.  汪江君提交&#10;提交物为1.通知前端&#10;       2.主页&#10;       3.各个页面的横栏" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.5.27.  汪江君提交&#10;提交物为1.通知前端&#10;       2.主页&#10;       3.各个页面的横栏" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="809" y="432" key="Github.Dialog.Accounts.Choose" timestamp="1590328013239">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1590584112902">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="809" y="432" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1590328013239" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590328081766">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590584112902" />
+    <state x="599" y="203" key="svn.repositoryBrowser" timestamp="1590583944959">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590328081766" />
-    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590325871966">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590325871966" />
+    <state x="599" y="203" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1590583944959" />
   </component>
 </project>
